@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e6fcf8-b705-4c7a-a654-cea88b77de12" name="2023_util_go-1 read csv" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/2023_util_go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_util/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_util/read.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_util/read_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_util/test.csv" afterDir="false" />
+    <list default="true" id="cf51d3eb-1501-45fb-b96f-3ff794b690b2" name="2023_util_go-2 write csv" comment="">
+      <change afterPath="$PROJECT_DIR$/csv_util/test2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_util/write.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_util/write_test.go" afterDir="false" />
+    </list>
+    <list id="56e6fcf8-b705-4c7a-a654-cea88b77de12" name="2023_util_go-1 read csv" comment="2023_util_go-1 read csv">
+      <change beforePath="$PROJECT_DIR$/.idea/2023_util_go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2023_util_go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="7e5e4a62-7732-45c5-9f2c-b47fafe13f7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,10 +126,11 @@
       <option name="presentableId" value="Default" />
       <updated>1674465012852</updated>
     </task>
-    <task active="true" id="2023_util_go-1" summary="read csv">
+    <task id="2023_util_go-1" summary="read csv">
       <branch name="main" repository="$PROJECT_DIR$" original="true" />
       <branch name="2023_util_go-1" repository="$PROJECT_DIR$" />
       <changelist id="56e6fcf8-b705-4c7a-a654-cea88b77de12" name="2023_util_go-1 read csv" comment="" />
+      <option name="closed" value="true" />
       <created>1674464616000</created>
       <option name="issue" value="true" />
       <url>https://github.com/kimjooyoon/2023_util_go/issues/1</url>
@@ -138,7 +138,20 @@
       <option name="presentableId" value="2023_util_go-1" />
       <option name="project" value="2023_util_go" />
       <option name="type" value="BUG" />
-      <updated>1674465012852</updated>
+      <updated>1674532737799</updated>
+    </task>
+    <task active="true" id="2023_util_go-2" summary="write csv">
+      <branch name="main" repository="$PROJECT_DIR$" original="true" />
+      <branch name="2023_util_go-2" repository="$PROJECT_DIR$" />
+      <changelist id="cf51d3eb-1501-45fb-b96f-3ff794b690b2" name="2023_util_go-2 write csv" comment="" />
+      <created>1674464626000</created>
+      <option name="issue" value="true" />
+      <url>https://github.com/kimjooyoon/2023_util_go/issues/2</url>
+      <option name="number" value="2" />
+      <option name="presentableId" value="2023_util_go-2" />
+      <option name="project" value="2023_util_go" />
+      <option name="type" value="BUG" />
+      <updated>1674532737799</updated>
     </task>
     <servers>
       <GitHub url="https://github.com">
